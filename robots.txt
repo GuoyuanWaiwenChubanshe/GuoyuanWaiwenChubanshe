@@ -1,4 +1,4 @@
-Sitemap: https://www.boomgaard.org/sitemap.xml
+Sitemap: https://www.boomgaard.cn/sitemap.xml
 
 User-agent: *
 Disallow: /operation-information/
