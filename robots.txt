@@ -1,0 +1,39 @@
+Sitemap: https://www.boomgaard.org/sitemap.xml
+
+User-agent: *
+Disallow: /operation-information/
+
+User-agent: Amazonbot
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: Meta-ExternalFetcher
+Disallow: /
+
+User-agent: MistralAI-User
+Disallow: /
+
+User-agent: PerplexityBot
+Disallow: /
+
+User-agent: YandexBot
+Disallow: /
+
+User-agent: YandexAdditional
+Disallow: /
+
+User-agent: YandexImages
+Disallow: /
+
+User-agent: YandexRenderBot
+Disallow: /
+
+# All copyrights, neighbouring rights and database rights in the content and layout of the
+# Boomgaard Foreign Languages Publishing Company websites are explicitly reserved by the 果园外文出版社.
+# The content of the Boomgaard Foreign Languages Publishing Company websites is for
+# commercial use only by the 果园外文出版社.
+# and it is not allowed to collect data from the websites by means of screen scraping
+# or any other automated method.
+# Also see the terms of use of the 果园外文出版社 at www.boomgaard.org/terms
