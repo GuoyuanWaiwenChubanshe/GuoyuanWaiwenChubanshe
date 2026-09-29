@@ -36,4 +36,4 @@ Disallow: /
 # commercial use only by the 果园外文出版社.
 # and it is not allowed to collect data from the websites by means of screen scraping
 # or any other automated method.
-# Also see the terms of use of the 果园外文出版社 at www.boomgaard.org/terms
+# Also see the terms of use of the 果园外文出版社 at www.boomgaard.cn/terms
