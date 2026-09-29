@@ -1,2 +1,2 @@
-# GuoyuanWaiwenChubanshe
+# 果园外文出版社
 果园外文出版社官方GitHub账号。
